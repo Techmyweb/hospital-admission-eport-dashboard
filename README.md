@@ -15,6 +15,11 @@ This project is a hospital admission report dashboard built in **Microsoft Excel
 - Gender-based and age-based analysis
 - Created with Excel 2016+
 
+## Dashboard Preview
+
+  ![Dashboard Preview](https://raw.githubusercontent.com/Techmyweb/hospital-admission-eport-dashboard/refs/heads/main/Hospital%20Admission%20report%20Dashboard.png).
+
+
 
 ## Files Included
 
