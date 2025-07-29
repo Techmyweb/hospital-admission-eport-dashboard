@@ -17,7 +17,7 @@ This project is a hospital admission report dashboard built in **Microsoft Excel
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Hospital_Admission_Report_Dashboard.png)
+![Dashboard Screenshot](HospitalAdmissionReportDashboard.png)
 
 ## Files Included
 
